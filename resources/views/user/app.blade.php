@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fikri Sport &mdash; Toko Olahraga Online </title>
+    <title>Paw Petshop</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -38,7 +38,7 @@
 
             <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
               <div class="site-logo">
-                <a href="index.html" class="js-logo-clone">FikriSport</a>
+                <a href="index.html" class="js-logo-clone">Paw Petshop</a>
               </div>
             </div>
 
@@ -169,9 +169,9 @@
             <div class="block-5 mb-5">
               <h3 class="footer-heading mb-4">Contact Info</h3>
               <ul class="list-unstyled">
-                <li class="address">Jalan sukses menuju dunia akhirat</li>
+                <li class="address">Jalan Tlogosari raya no.46</li>
                 <li class="phone"><a href="tel://23923929210">+62 3392 3929 210</a></li>
-                <li class="email">sport@gmail.com</li>
+                <li class="email">pawpetshop@gmail.com</li>
               </ul>
             </div>
 

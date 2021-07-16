@@ -4,9 +4,9 @@
     <div class="container">
     <div class="row align-items-start align-items-md-center justify-content-end">
         <div class="col-md-5 text-center text-md-left pt-5 pt-md-0">
-        <h1 class="mb-2">Cari Kebutuhan Olahraga Kamu Di Sini</h1>
+        <h1 class="mb-2">Cari Kebutuhan Hewan Peliharaan Kamu Di Sini</h1>
         <div class="intro-text text-center text-md-left">
-            <p class="mb-4">Alat olahraga disini terjamin kualitasnya dan tentunya barangnya juga original bukan kw. </p>
+            <p class="mb-4">Produk disini terjamin kualitasnya dan tentunya barangnya juga original bukan kw. </p>
             <p>
             <a href="{{ route('user.produk') }}" class="btn btn-sm btn-primary">Belanja Sekarang</a>
             </p>
